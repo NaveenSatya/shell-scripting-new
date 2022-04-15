@@ -8,7 +8,7 @@ echo Hello World
 
 # Print Multiple Lines (\n), Some tab space (\t)
 
-echo -e Hello World,\n\tWelcome
+echo -e 'Hello World,\n\tWelcome'
 
 # Enable Colors (\e)
 
